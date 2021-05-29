@@ -1,0 +1,9 @@
+{
+  "name": "syook-code-level-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Akshayus27/syook-code-level-1.git",
+  "author": "Akshayus27 <akshayus27@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
